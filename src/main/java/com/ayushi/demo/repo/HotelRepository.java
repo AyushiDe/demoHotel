@@ -1,6 +1,6 @@
 package com.ayushi.demo.repo;
 
-import com.ayushi.demo.dto.hotel.Hotel;
+import com.ayushi.demo.dto.Hotel;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 
