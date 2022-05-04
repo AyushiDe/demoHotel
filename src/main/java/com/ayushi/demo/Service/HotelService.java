@@ -7,4 +7,5 @@ import java.util.List;
 public interface HotelService {
 
     public List<Hotel> getHotelsFromRapidApi();
+    public String getCarsFromRapidApi();
 }
